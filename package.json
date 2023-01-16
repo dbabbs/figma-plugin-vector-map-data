@@ -9,8 +9,15 @@
     "prettier:format": "prettier --write '**/*.{js,jsx,ts,tsx,css,json}' "
   },
   "dependencies": {
+    "@mapbox/tilebelt": "^1.0.2",
+    "@types/geojson": "^7946.0.10",
+    "baseui": "^12.2.0",
+    "d3-geo": "^3.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-map-gl": "5.2.10",
+    "styletron-engine-atomic": "^1.5.0",
+    "styletron-react": "^6.1.0"
   },
   "devDependencies": {
     "@figma/plugin-typings": "^1.50.0",
