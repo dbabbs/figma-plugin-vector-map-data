@@ -1,4 +1,4 @@
-# Vector Map Exporter Figma Plugin
+# Vector Map Data Importer Figma Plugin
 
 ![Demo image of plugin](./banner.png)
 

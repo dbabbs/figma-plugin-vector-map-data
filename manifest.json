@@ -1,6 +1,6 @@
 {
-  "name": "Vector Map Editor",
-  "id": "00000000",
+  "name": "Import Vector Map Data",
+  "id": "1196838635977299565",
   "api": "1.0.0",
   "main": "dist/code.js",
   "ui": "dist/ui.html",

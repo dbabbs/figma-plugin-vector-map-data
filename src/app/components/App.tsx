@@ -146,7 +146,7 @@ const App = () => {
               onClick={onCreate}
               isLoading={loading}
             >
-              Insert Vector Map
+              Insert Vector Map Data
             </Button>
           </ButtonContainer>
         </GroupContainer>
